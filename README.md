@@ -45,7 +45,7 @@ Todos os dados são armazenados localmente no navegador utilizando LocalStorage,
 ---
 
 ## 🖼️ Preview
-<img width="1365" height="545" alt="image" src="https://github.com/user-attachments/assets/b596ab0b-9e4b-4a75-a227-870f8b6e5317" />
+<img width="1361" height="532" alt="image" src="https://github.com/user-attachments/assets/bec3857a-0bda-43a7-90c2-1d4c94250a64" />
 
 ---
 
